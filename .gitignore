@@ -1,0 +1,20 @@
+*.o
+*.out
+*.exe
+*~
+*.iso
+.DS_STORE
+__pycache__/*
+
+# Visual Studio Code (un)code
+.vscode
+.vscode-server
+.devcontainer
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+.history
+
+time
